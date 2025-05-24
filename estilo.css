@@ -2,8 +2,10 @@ h1{text-align: center;}
 h2{text-align: center;}
 h3{text-align: center;}
 
+.para1{text-align: center;
+}
 .para1{font-size: 10px; text-align: justify; /* Paragrafo com tamanho maior */
- text-align: center;  
+
 }
 
 
